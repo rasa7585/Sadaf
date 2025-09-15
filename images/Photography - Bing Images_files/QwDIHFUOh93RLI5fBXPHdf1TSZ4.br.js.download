@@ -1,0 +1,1 @@
+var FeedTagPageHeader;(function(){sj_be(_d.querySelector("#taghd .ic_close"),"click",ImageFeedUtils.close)})(FeedTagPageHeader||(FeedTagPageHeader={}))
